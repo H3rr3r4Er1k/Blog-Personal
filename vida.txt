@@ -1,0 +1,6 @@
+Mi nombre es Erik Herrera.
+
+Tengo 24 años y actualmente estoy en la UCE.
+Me gustaria aprender git.
+
+Luego vamos hablar sobre su vida.
