@@ -3,4 +3,4 @@ Mi nombre es Erik Herrera.
 Tengo 24 age y actualmente estoy en la UCE jaja .
 Me gustaria aprender git, java, edo y estadistica.
 
-Luego vamos hablar sobre su vida.
+Luego vamos hablar sobre su vida e historia.
