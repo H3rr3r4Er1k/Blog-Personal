@@ -1,8 +1,4 @@
-Mi nombre es Erik Herrera.
-
-Tengo 24 age y actualmente estoy en la UCE jaja .
+Mi nombre es Erik Santiago Herrera Chiriboga.
+Tengo 24 age y actualmente estoy en la UCE jaja, estudiando la carrera de ing en sistemas.
 Me gustaria aprender git, java, edo y estadistica.
-
 Luego vamos hablar sobre su vida e historia.
-Todo lo que voy a escribir va a ser desde la branch cabecera.
-
