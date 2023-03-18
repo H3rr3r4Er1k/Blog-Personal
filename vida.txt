@@ -4,3 +4,5 @@ Tengo 24 age y actualmente estoy en la UCE jaja .
 Me gustaria aprender git, java, edo y estadistica.
 
 Luego vamos hablar sobre su vida e historia.
+Todo lo que voy a escribir va a ser desde la branch cabecera.
+
