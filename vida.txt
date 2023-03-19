@@ -2,3 +2,4 @@ Mi nombre es Erik Santiago Herrera Chiriboga.
 Tengo 24 age y actualmente estoy en la UCE jaja, estudiando la carrera de ing en sistemas.
 Me gustaria aprender git, java, edo y estadistica.
 Luego vamos hablar sobre su vida e historia.
+Nueva linea de texto para verificar el uso correcto de la llave ssh.
