@@ -4,4 +4,5 @@ ACTUALMENTE TENGO ALGUNOS AGE.
 Tengo 24 age y actualmente estoy en la UCE jaja, estudiando la carrera de ing en sistemas.
 Tengo 20 aGE.
 Me gustaria aprender git, java, edo y estadistica.
-CAMBIOS PARA TENER EN CUENTA TODOS LOS CAMBIOS REALIZADOS POR SANTIGO.
+CAMBIOS PARA TENER EN CUENTA TODOS LOS CAMBIOS REALIZADOS POR SANTIaGO.
+CAMBIOS REALIZADOS DESDE EL NUEVO GIT CLONE.
