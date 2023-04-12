@@ -1,1 +1,0 @@
-Hola esta es una nueva prueba tanto del teclado como de el nuevo comando de git para eliminar archivos
